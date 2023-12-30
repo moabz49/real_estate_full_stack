@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Bahria Town",
+        "price": "10,000,000",
+        "detail": "Bahria Town's Phase 1 offers a vibrant community with modern amenities and stylish housing options for a comfortable lifestyle.",
+        "image": "./house(2).jpeg"
+    },
+    {
+        "name": "Defence Housing Authority (DHA)",
+        "price": "15,500,000",
+        "detail": "DHA Islamabad's Sector F hosts luxurious homes equipped with top-notch facilities, ensuring a sophisticated living experience.",
+        "image": "./house(4).jpeg"
+    },
+    {
+        "name": "Gulberg Islamabad",
+        "price": "8,200,000",
+        "detail": "Gulberg's Residencia Block A provides stylish living spaces, combining convenience and modern design for a balanced lifestyle in Islamabad.",
+        "image": "./house(3).jpeg"
+    },
+    {
+        "name": "Faisal Town",
+        "price": "25,000,000",
+        "detail": "Faisal Town stands out with its upscale residences, promising a high-end living environment and exclusive comforts in Islamabad.",
+        "image": "./house(1).jpeg"
+    },
+    {
+        "name": "Margalla Hills",
+        "price": "12,500,000",
+        "detail": "Margalla Hills offers comfortable homes in a well-connected area, catering to modern needs and an active lifestyle in Islamabad's scenic setting.",
+        "image": "./house(5).jpeg"
+    },
+    {
+        "name": "Rawal Lake View",
+        "price": "18,000,000",
+        "detail": "Rawal Lake View presents elegant homes surrounded by natural beauty and a serene environment, providing a tranquil lifestyle in Islamabad.",
+        "image": "./house(6).jpeg"
+    }
+]
